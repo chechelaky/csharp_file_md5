@@ -1,12 +1,14 @@
 ﻿/*
  * Criado por SharpDevelop.
- * Usuário: master
+ * Author: Luismar Chechelaky
  * Data: 25/10/2017
  * Hora: 22:39
  * 
  * Para alterar este modelo use Ferramentas | Opções | Codificação | Editar Cabeçalhos Padrão.
  * 
+ * webgrafia
  * https://www.dotnetperls.com/bufferedstream
+ * https://gist.github.com/atifaziz/4368761
  */
 using System;
 using System.IO;
